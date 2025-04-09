@@ -1,7 +1,7 @@
 # Quantum Racer
 
 ## Download
-Download the apk at app/release/quantumracer_v0.apk
+Download the app at `app/release/quantumracer_v0.apk`. Coming to Google Play Store soon!
 
 ## Instructions
 ### Welcome to Quantum Racer!
